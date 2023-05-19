@@ -1,0 +1,20 @@
+{
+  "name": "runo",
+  "version": "1.0.0",
+  "description": "API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "API"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "Manideep",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.1.1"
+  }
+}
